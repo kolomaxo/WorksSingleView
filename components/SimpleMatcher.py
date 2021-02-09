@@ -38,7 +38,6 @@ class Matcher:
                 self.unmatched_objects.append(my_object)
 
     def fit(self, records):
-        print(type(records[0]))
         if self.has_unique_key:
             self.__exact_match_clustering(records)
         self.__canonize_clusters()
