@@ -1,5 +1,5 @@
 mongodb:
-    image: works_single_view
+    image: kolomaxo/works_single_view
     container_name: works_single_view
     command: [--auth]
     ports:
