@@ -1,1 +1,0 @@
-{"mongo_user": "readWriter", "mongo_pwd":"qwertz", "mongo_address":"127.0.0.1:27017", "mongo_db":"WorksSingleViewDB", "mongo_collection":"WorksSingleViewCollection_"}
