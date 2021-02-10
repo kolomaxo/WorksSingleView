@@ -1,6 +1,6 @@
 mongodb:
-    image: mongo2
-    container_name: mongodb2
+    image: works_single_view
+    container_name: works_single_view
     command: [--auth]
     ports:
        - 5000:5000
